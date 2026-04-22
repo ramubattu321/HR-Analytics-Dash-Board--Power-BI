@@ -1,31 +1,86 @@
-## HR Analytics Dashboard.
+# HR Analytics Dashboard (Power BI)
 
-To build a Dashoard for HR to anlyse the Employee retention.
+## Dashboard Preview
+![HR Dashboard](HR Dashboard(BI).pdf)
 
-## Acknowledgements
+---
 
- - [Data set](https://drive.google.com/file/d/1qdOnNyBVGDtLPWp_zo029OmeL4cJiaDv/view?usp=share_link)
- - [Back ground of Dashboard](https://drive.google.com/file/d/1fhuqXr9U0Lp5OYBK6V8AjE_P6xDCS18D/view?usp=share_link)
+## Overview
+This project presents an interactive **HR Analytics Dashboard** built using Power BI to analyze employee data and understand workforce trends.
 
+The dashboard helps HR teams monitor employee retention, identify attrition patterns, and support data-driven decision-making.
 
+---
 
-## Authors
+## Business Problem
+Employee attrition is a major challenge for organizations, leading to increased hiring costs and reduced productivity.
 
-- [@ramubattu321-code](https://github.com/ramubattu321-code)
+This project focuses on:
+- Analyzing employee retention patterns  
+- Identifying high-risk departments and roles  
+- Understanding factors influencing attrition  
+- Supporting HR decision-making with data insights  
 
-## Color Reference
+---
 
-Colours used in Dash board for charts are mentioned below.
+## Key Metrics
+- Total Employees: 1470  
+- Attrition Count: 237  
+- Attrition Rate: 16%  
+- Average Age: 37  
+- Average Salary: 6.5K  
+- Average Years at Company: 7.0  
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#022E39](https://via.placeholder.com/10/022E39?text=+) #022E39 |
-| Example Color | ![#044855](https://via.placeholder.com/10/044855?text=+) #044855 |
-| Example Color | ![#793F4E](https://via.placeholder.com/10/793F4E?text=+) #793F4E |
-| Example Color | ![#CD424E](https://via.placeholder.com/10/CD424E?text=+) #CD424E |
-| Example Color | ![#D94B58](https://via.placeholder.com/10/D94B58?text=+) #D94B58 |
+---
 
+## Dashboard Insights
 
-## Screenshots
+### Attrition Analysis
+- Highest attrition observed in **26–35 age group**  
+- High turnover in **Laboratory Technician and Sales Executive roles**  
+- Employees in **lower salary slabs (≤5K)** show higher attrition  
 
-![Dash board](https://drive.google.com/file/d/1FWRSoou4vT3zRg3jPVvb2JGzJ6FzvwxW/view?usp=share_link)
+### Workforce Insights
+- Majority employees belong to **Life Sciences and Medical backgrounds**  
+- Gender-based differences observed in attrition trends  
+
+### Tenure Analysis
+- Most employees leave within the **first few years**  
+- Attrition decreases as experience increases  
+
+---
+
+## Visualizations Included
+- Attrition by Education  
+- Attrition by Age  
+- Attrition by Salary Slab  
+- Attrition by Years at Company  
+- Attrition by Job Role  
+- Attrition by Gender  
+
+---
+
+## Business Impact
+- Helps HR identify **high-risk employee segments**  
+- Supports **retention strategy planning**  
+- Enables **data-driven workforce decisions**  
+- Reduces employee turnover costs  
+
+---
+
+## Tools & Technologies
+- Power BI  
+- DAX  
+- Power Query  
+- Data Visualization  
+
+---
+
+## Dataset
+- [Dataset](https://drive.google.com/file/d/1qdOnNyBVGDtLPWp_zo029OmeL4cJiaDv/view?usp=share_link)
+
+---
+
+## Author
+Ramu Battu  
+MS Data Analytics, California State University, Fresno
