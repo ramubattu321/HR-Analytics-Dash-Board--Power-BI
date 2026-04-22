@@ -1,7 +1,7 @@
 # HR Analytics Dashboard (Power BI)
 
 ## Dashboard Preview
-![HR Dashboard](HR Dashboard (BI) .pdf)
+![HR Dashboard](dashboard.png)
 
 ---
 
